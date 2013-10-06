@@ -1,3 +1,6 @@
+Thai Word Segmentation Tool
+===========================
+
 August 22, 2013
 
 Language: Python 2.7.5
